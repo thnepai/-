@@ -91,7 +91,7 @@ https://t.me/TMD_sgk2023_AISGK_Bot" target="_blank">@TMD_sgk2023_AISGK_Bot</a>�
 
 根据手机号查询姓名、身份证号等信息，需要的自己测试吧。
 
-账号：<a href="https://www.shegongku.top/1.html" target="_blank">@MoooooooLeLeBot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+账号：<a href="https://t.me/MI6SGK_bot_jishuxiabot" target="_blank">@MI6SGK_bot_jishuxiabot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 ## Hello World社工库⭐⭐⭐
