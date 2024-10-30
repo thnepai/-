@@ -28,7 +28,7 @@
 
 ## AI社工库⭐⭐⭐⭐⭐
 
-AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁需要积分，账号: <a href="https://www.shegongku.top/43.html" target="_blank">@Spaace_SGK_STScan_Bot</a>，附<a href="https://www.shegongku.top/179.html" target="_blank" >最新Telegram社工库使用教程</a>。
+AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁需要积分，账号: <a href="https://t.me/HeePing_SGK_STScan_Bot" target="_blank">@Spaace_SGK_STScan_Bot</a>，附<a href="https://www.shegongku.top/179.html" target="_blank" >最新Telegram社工库使用教程</a>。
 
 
 <a href="https://idouyin.io/41" target="_blank"><img src="pic/ai.png" alt="AI社工库" border="0" style="width:380px;"></a>
