@@ -17,7 +17,7 @@
 
 ## 暗精灵社工库⭐⭐⭐⭐⭐
 
-暗精灵社工库可查手机、QQ、微博、快递、身份户籍，目前已关闭签到功能，只能通过分享或充值获取积分。暗精灵社工库账号: <a href="https://www.shegongku.top/1.html" target="_blank">@AJL01_bot</a>，安装Telegram后，复制账号到Telegram搜索账号即可进入，附教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+暗精灵社工库可查手机、QQ、微博、快递、身份户籍，目前已关闭签到功能，只能通过分享或充值获取积分。暗精灵社工库账号: <a href="https://www.shegongku.top/1.html" target="_blank">@aishegongkubot_Xraysgk_bot</a>，安装Telegram后，复制账号到Telegram搜索账号即可进入，附教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 使用如下图：
@@ -28,7 +28,7 @@
 
 ## AI社工库⭐⭐⭐⭐⭐
 
-AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁需要积分，账号: <a href="https://www.shegongku.top/43.html" target="_blank">@aiiiiisgkbot</a>，附<a href="https://www.shegongku.top/179.html" target="_blank" >最新Telegram社工库使用教程</a>。
+AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁需要积分，账号: <a href="https://www.shegongku.top/43.html" target="_blank">@Spaace_SGK_STScan_Bot</a>，附<a href="https://www.shegongku.top/179.html" target="_blank" >最新Telegram社工库使用教程</a>。
 
 
 <a href="https://idouyin.io/41" target="_blank"><img src="pic/ai.png" alt="AI社工库" border="0" style="width:380px;"></a>
@@ -37,7 +37,7 @@ AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁
 
 ## X-ray社工库⭐⭐⭐⭐⭐
 
-这个社工库可以通过每日签到获取积分，查询免费，解锁需要积分，账号: <a href="https://www.shegongku.top/1.html" target="_blank">@Zonesgk_bot</a>，<a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+这个社工库可以通过每日签到获取积分，查询免费，解锁需要积分，账号: <a href="https://www.shegongku.top/1.html" target="_blank">@HeePing_SGK_STScan_Bot</a>，<a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 
